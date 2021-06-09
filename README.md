@@ -5,3 +5,11 @@
 
 # 1b
 ## Stack using arrays
+<br>
+
+# 2a(Staff Main)
+## super class called Staff three subclasses namely Teaching (domain, publications), Technical (skills), and Contract (period)
+<br>
+
+# 2b(Token)
+## Customer to store their name and date_of_birth StringTokenizer 
