@@ -13,3 +13,9 @@
 
 ## 2b(Token)
 ### Customer to store their name and date_of_birth StringTokenizer 
+<br>
+
+### Quick-->Quick Sort program
+### Threadpg--> Thread(square and Cube Program)
+
+
